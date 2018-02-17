@@ -1,0 +1,30 @@
+% Dataset for KNN
+% Regole per la lettura: 
+% "%" e spazio ad inizio riga indicano un commento
+% "%" e 'd' indicano che nella riga successiva ci sarà del dato utile
+% 
+% I dati 
+%
+%d1
+%
+%d2
+%
+%d3
+%
+%d4
+%
+%d5
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
